@@ -1,8 +1,8 @@
 - 👋 Heyy heyy heyy, I’m Bagas Dwi Kurniawan 
 - 👀 I’m interested in anything about life
 - 🌱 I’m currently learning C++/C
-- 💞️ I’m looking to collaborate on every task me
-- 📫 How to reach me @rexbgs in instagram
+- 💞️ I’m looking to collaborate on GitHub
+- 📫 How to reach me @rexbgs on instagram
 
 <!---
 rexbgs/rexbgs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
