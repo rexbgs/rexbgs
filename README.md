@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything about life
 - 🌱 I’m currently learning C++/C
 - 💞️ I’m looking to collaborate on every task me
-- 📫 How to reach me ...
+- 📫 How to reach me @rexbgs in instagram
 
 <!---
 rexbgs/rexbgs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
